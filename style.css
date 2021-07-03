@@ -1,0 +1,81 @@
+h1{
+
+ color: rgb(233, 155, 10);
+
+ padding: 10px;
+ margin: 12px;
+
+ background-color: rgb(244, 250, 247);
+ padding: 10px;
+ margin: 0 350px 30px 350px;
+ border-radius: 12px;
+ text-align: center;
+ font-size: 50px;
+ font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif
+
+ 
+
+}
+
+h2{
+
+
+font-family: fantasy;
+font-size: 30px;
+text-align: center;
+
+}
+
+
+p{
+
+    font-size: 20px;
+    color: maroon;
+}
+
+.background{
+
+    background-image: url(pexels-matt-hardy-3560168.jpg);
+}
+
+
+.zillur{
+
+border: 10px solid red;
+border-radius: 12px;
+font-family: monospace;
+background-color: rgb(176, 177, 190);
+margin: 20px 100px 30px 100px;
+padding: 15px;
+text-align: justify;
+font-size: 17px;
+
+
+}
+
+.sm{
+
+border: 10px solid rgb(202, 20, 44);
+margin: 30px 100px 30px 100px;
+border-radius: 12px;
+background-color: yellowgreen;
+text-align: justify;
+padding: 20px;
+font-family: unset;
+
+
+}
+
+
+
+
+.rahman{
+
+border: 12px solid honeydew;
+background-color: lightseagreen;
+padding: 15px;
+margin: 30px 100px;
+text-align: justify;
+border-radius: 15px;
+
+}
